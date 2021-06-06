@@ -1,1 +1,2 @@
 this file belongs to tester2
+Tester2 have updated in local project
