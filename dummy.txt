@@ -1,4 +1,0 @@
-this file belongs to tester2
-Tester2 have updated in local project
-let me check if changes are reflected to opencartlocal
-sdfasdf

@@ -63,8 +63,8 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	}
 	
-	@AfterClass
-	public void tearDown()
+	@AfterClass(groups = {"master","sanity","regression"})
+	void tearDown()
 	{
 	driver.close();
 	}
